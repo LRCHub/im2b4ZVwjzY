@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "遥か",
+  "base_artist": "GReeeeN",
+  "createdAt": "2026-03-03T14:48:21.281443Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "遥か",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/01_遥か_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "遥か",
+      "artist": "MUCC",
+      "has_synced": false,
+      "path": "select/02_遥か_MUCC.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "銀色、遥か",
+      "artist": "Ceui",
+      "has_synced": true,
+      "path": "select/03_銀色、遥か_Ceui.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "遥か",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/04_遥か_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "遥か (遥远)",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/05_遥か_(遥远)_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "遥か",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/06_遥か_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "遥か",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/07_遥か_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "遥か…",
+      "artist": "GLAY",
+      "has_synced": false,
+      "path": "select/08_遥か..._GLAY.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "遥か (album mix)",
+      "artist": "Spitz",
+      "has_synced": true,
+      "path": "select/09_遥か_(album_mix)_Spitz.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "遥か - Haruka",
+      "artist": "Ryujin Kiyoshi",
+      "has_synced": true,
+      "path": "select/10_遥か_-_Haruka_Ryujin_Kiyoshi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "遥か - Haruka",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/11_遥か_-_Haruka_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "遥か",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/12_遥か_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "遥か... (Demo)",
+      "artist": "GLAY",
+      "has_synced": false,
+      "path": "select/13_遥か..._(Demo)_GLAY.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "銀色、遥か",
+      "artist": "Ceui",
+      "has_synced": true,
+      "path": "select/14_銀色、遥か_Ceui.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "銀色、遥か (Album Ver.)",
+      "artist": "Ceui",
+      "has_synced": true,
+      "path": "select/15_銀色、遥か_(Album_Ver.)_Ceui.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "遥か",
+      "artist": "GREEEEN",
+      "has_synced": true,
+      "path": "select/16_遥か_GREEEEN.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "遥か album mix",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/17_遥か_album_mix_スピッツ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "遥か",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/pl_01_遥か_GReeeeN.txt"
+    }
+  ]
+}
